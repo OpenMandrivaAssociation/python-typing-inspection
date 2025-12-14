@@ -2,7 +2,7 @@
 %define uname typing_inspection
 
 Name:		python-typing-inspection
-Version:	0.4.0
+Version:	0.4.2
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/t/%{module}/%{uname}-%{version}.tar.gz
 Summary:	Provides tools to inspect type annotations at runtime
